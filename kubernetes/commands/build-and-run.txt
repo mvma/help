@@ -1,0 +1,3 @@
+kubectl delete -f <yaml-file>
+kubectl apply -f <yaml-file>
+kubectl port-forward pod/<pod-name> <host-port>:<container-port>

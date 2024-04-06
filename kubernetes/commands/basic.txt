@@ -1,0 +1,6 @@
+kubectl get all
+kubectl get pod
+kubectl get namespaces
+kubectl get pod -n <namespace>
+kubectl describe pod <pod-name>
+kubectl config get-contexts
