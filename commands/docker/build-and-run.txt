@@ -1,0 +1,2 @@
+docker build -t <image-tag-name> .
+docker run -d -p <host-port>:<container-port> <image-tag-name>

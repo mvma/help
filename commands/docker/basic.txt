@@ -1,0 +1,4 @@
+docker image ls
+docker container ls
+docker system prune --all
+
