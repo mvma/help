@@ -4,3 +4,4 @@ kubectl get namespaces
 kubectl get pod -n <namespace>
 kubectl describe pod <pod-name>
 kubectl config get-contexts
+kubectl top pods -n proof-of-context
